@@ -1,9 +1,5 @@
 # Challenger Alexandria
 
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">React.js</a>
-</h1>
-
 ## Descrição 01
 Construir uma tela onde se mostra os dados vindo da api fornecida.
 <hr>
